@@ -3,4 +3,4 @@ Often I will look for working examples of people's configuration files on GitHub
 In particular, this HAProxy configuration file has examples for:
 * Redirecting http to https
 * Redirecting www to non-www
-* SSL via HAProxy directly
+* Strip SSL using HAProxy directly
